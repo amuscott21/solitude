@@ -1,14 +1,10 @@
 ##SOL20 Fig 3. Age model & strat column
 
 library(tidyverse)
-library(clam)
 library(ggplot2)
 library(dplyr)
 library(cowplot)
-library(knitr)
-library(kableExtra)
 library(tidyr)
-library(reshape2)
 
 
 
